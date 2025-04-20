@@ -1,0 +1,18 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+
+}
+
+.lblSrch {
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+}
+.txtSrch {
+    width: 300px;
+    height: 30px;
+    
+    margin-bottom: 25px;
+}

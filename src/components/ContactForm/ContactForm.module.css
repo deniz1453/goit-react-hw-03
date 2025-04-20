@@ -1,0 +1,38 @@
+.form {
+    width: 300px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #000;
+    border-radius: 15px;
+}
+.lblName {
+    padding: 30px 20px 0 20px;
+}
+.fieldName {
+    margin: 0 20px;
+    height: 30px;
+    border: 1px solid #000;
+    border-radius: 10px;
+}
+.error {
+    color: red;
+    font-size: 0.8rem;
+    margin-top: 0.2rem;
+}
+.lblNumber {
+    padding: 30px 20px 0 20px;
+}
+.fieldNumber {
+    margin: 0 20px;
+    height: 30px;
+    border: 1px solid #000;
+    border-radius: 10px;
+}
+.btnAdd {
+    margin: 20px 20px;
+    width: 150px;
+    height: 30px;
+    border: 1px solid #000;
+    border-radius: 15px;
+}
